@@ -1,3 +1,7 @@
+http://boto3.readthedocs.io/en/latest/guide/dynamodb.html
+
+pip3 install --download vendor -r requirements.txt --no-binary :all:
+
 Invoice example
 
 
@@ -22,4 +26,9 @@ Payments data fields:
 - invoice id
 - transaction_id
 
+Investors
 
+- id
+- contacts
+-- chat_id
+- refund_address
